@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 dl_env
+logs
 # C extensions
 *.so
 
