@@ -6,6 +6,7 @@ dl_env
 logs
 # C extensions
 *.so
+datasets
 
 # Distribution / packaging
 .Python
